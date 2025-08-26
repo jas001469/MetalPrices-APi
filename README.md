@@ -1,7 +1,3 @@
-# Metal Prices Dashboard — Simplify Money | Software Engg Intern Submission
-**Author:** Jas Singh  
-**Role Applied:** Software Engg Intern - AI/FE  
-**Date:** <YYYY-MM-DD>
 
 ---
 
@@ -30,8 +26,8 @@ Key features:
 
 ---
 
-## Deployment Notes
-**Recommended host:** Vercel (free tier). Alternative: Netlify, Surge, or any static host for React apps.
+## Deployed Link
+**Link:** Vercel - https://metal-prices-a-pi.vercel.app/
 
 **Environment variables**
 - `METAL_API_KEY` — optional. If present the app will attempt live fetch from the metal price API. If not set or the API fails, the app uses `fallbackMetalData`.
